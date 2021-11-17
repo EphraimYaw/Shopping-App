@@ -4,3 +4,11 @@ module.exports = function(api) {
     presets: ['babel-preset-expo'],
   };
 };
+
+/**
+ * Metro configuration for React Native
+ * https://github.com/facebook/react-native
+ *
+ * @format
+ */
+ 
